@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Language: C](https://img.shields.io/badge/Language-C-blue)
+
 # 🤖 AI-Like Smart Chatbot in C
 
 A simple, interactive **AI-like chatbot** built entirely using the **C programming language**.  
